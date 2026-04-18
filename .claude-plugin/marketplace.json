@@ -1,0 +1,13 @@
+{
+  "name": "jglennandrade-skills-claude",
+  "owner": {
+    "name": "Gabriel (Glenn) Andrade"
+  },
+  "plugins": [
+    {
+      "name": "gabriel-skills",
+      "source": "./",
+      "description": "Gabriel Andrade's custom Claude Code skills — marketing, copywriting, CRO, design, UX, animation, product research"
+    }
+  ]
+}
